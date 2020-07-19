@@ -8,7 +8,7 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 ![JS](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/JavaScript.png)&nbsp;&nbsp;
 ![MongoDb](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/mongodb.png)&nbsp;
 ![Express](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/express.png)&nbsp;
-![React](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/react.png)&nbsp;&nbsp;
+![React](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/React.png)&nbsp;&nbsp;
 ![Node](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/node.png)&nbsp;&nbsp;
 ![Postgres](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/PostgreSQL.png)&nbsp;&nbsp;&nbsp;
 ![FireBase](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/firebase.png)&nbsp;&nbsp;
