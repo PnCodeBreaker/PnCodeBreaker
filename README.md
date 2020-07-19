@@ -3,6 +3,7 @@
 I am an aspiring Full Stack Web Developer and Pursuing B.tech in Computer Science @ [KIIT University](https://kiit.ac.in/) <br>
 Computers and Tech in general fascinates me and I love to learn new technologies and explore them.
 <br>
+![pn](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/pn.jpg)
 ### Tech I Work with 💻 :
 &nbsp;
 ![JS](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/JavaScript.png)&nbsp;&nbsp;
