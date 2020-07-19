@@ -14,8 +14,6 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 ![FireBase](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/firebase.png)&nbsp;&nbsp;
 ![Flutter](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/Flutter.png)&nbsp;&nbsp;
 ![C++](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/C++.png)
-
-&nbsp; Javascript &nbsp; MongoDB   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React.js &nbsp;&nbsp;&nbsp; Node.js &nbsp;PostgreSQL &nbsp;Firebase &nbsp;&nbsp; &nbsp; Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++
 <br>
 ### 🌱 I’m currently learning :
 + I am brushing up my Web development skills and learning new technologies alongside, I am also learning flutter for developing cross platform apps.
