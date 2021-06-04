@@ -16,7 +16,7 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 ![C++](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/C++.png)
 <br>
 ### 🌱 I’m currently learning :
-+ I am brushing up my Web development skills and learning new technologies alongside, I am also learning flutter for developing cross platform apps.
++ I am brushing up my Web development skills and learning new technologies alongside, I am also learning React Native and Flutter for developing cross platform apps.
 + Giving a significant amount of time to Data Structures and Algorithms( implementing in C++ )
 + I am also interested in CyberSecurity and Ethical hacking and pursuing IBM's CyberSecurity Analyst Course in Coursera.
 
