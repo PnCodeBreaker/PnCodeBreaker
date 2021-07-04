@@ -1,6 +1,6 @@
 ## Hi, I am Prithwish 👋
 
-I am an aspiring Full Stack Web Developer and Pursuing B.tech in Computer Science @ [KIIT University](https://kiit.ac.in/) <br>
+I am a Full Stack Web Developer and Pursuing B.tech in Computer Science @ [KIIT University](https://kiit.ac.in/) <br>
 Computers and Tech in general fascinates me and I love to learn new technologies and explore them.
 <br>
 ### Tech I Work with 💻 :
