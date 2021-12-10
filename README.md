@@ -28,8 +28,6 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 
 ### ⚡ Fun fact:
 My username is PnCodeBreaker 😅
-<br> <br>
-![pn](https://user-images.githubusercontent.com/41236287/87885850-1950ec80-ca36-11ea-8273-526ff0387c23.jpg)
 <!--
 **PnCodeBreaker/PnCodeBreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
