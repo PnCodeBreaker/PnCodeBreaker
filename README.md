@@ -29,7 +29,7 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 ### ⚡ Fun fact:
 My username is PnCodeBreaker 😅
 
-### 📊 My Github Stats
+### 📊 My Github Stats:
 
   <br/>
   <a href="https://github.com/PnCodeBreaker/github-readme-stats"><img alt="Prithwish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PnCodeBreaker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
