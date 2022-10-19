@@ -1,6 +1,6 @@
 ## Hi, I am Prithwish 👋
 
-I am a Full Stack Web Developer and Pursuing B.tech in Computer Science @ [KIIT University](https://kiit.ac.in/) <br>
+I am a Full Stack Developer @ Glosity.club (https://glosity.club/) <br>
 Computers and Tech in general fascinates me and I love to learn new technologies and explore them.
 <br>
 ### Tech I Work with 💻 :
@@ -15,10 +15,6 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 ![Flutter](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/Flutter.png)&nbsp;&nbsp;
 ![C++](https://raw.githubusercontent.com/PnCodeBreaker/PnCodeBreaker/master/res/C++.png)
 <br>
-### 🌱 I’m currently learning :
-+ I am brushing up my Web development skills and learning new technologies alongside, I am also learning React Native and Flutter for developing cross platform apps.
-+ Giving a significant amount of time to Data Structures and Algorithms( implementing in C++ ).
-
 
 ### 📫 How to reach me: 
 ✉️ Gmail: [Prithwishnp.n@gmail.com](mailto:Prithwishnp.n@gmail.com) <br>
