@@ -20,7 +20,8 @@ Computers and Tech in general fascinates me and I love to learn new technologies
 ✉️ Gmail: [Prithwishnp.n@gmail.com](mailto:Prithwishnp.n@gmail.com) <br>
 🐤 Twitter: [@Prithwishn21](https://twitter.com/@Prithwishn21) <br>
 📷 Instagram: [@pncodebreaker](https://www.instagram.com/pncodebreaker/) <br> 
-📮 LinkedIn: [Prithwish Nandi](https://www.linkedin.com/in/prithwish-nandi-22443b193)
+📮 LinkedIn: [Prithwish Nandi](https://www.linkedin.com/in/prithwish-nandi-22443b193) <br>
+🖋️ Medium: [Prithwish Nandi] (https://medium.com/@PnCodeBreaker)
 
 ### ⚡ Fun fact:
 My username is PnCodeBreaker 😅
