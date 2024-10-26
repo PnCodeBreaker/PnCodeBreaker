@@ -1,6 +1,6 @@
 ## Hi, I am Prithwish 👋
 
-SDE @ Masai (https://www.masaischool.com/) <br>
+SDE @ Masai (https://www.masaischool.com/) 
 <br>
 ### Tech I Work with 💻 :
 &nbsp;
