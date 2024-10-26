@@ -1,7 +1,6 @@
 ## Hi, I am Prithwish 👋
 
 SDE @ Masai (https://www.masaischool.com/) <br>
-Computers and Tech in general fascinates me and I love to learn new technologies and explore them.
 <br>
 ### Tech I Work with 💻 :
 &nbsp;
