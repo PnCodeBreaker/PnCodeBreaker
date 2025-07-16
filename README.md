@@ -1,6 +1,6 @@
 ## Hi, I am Prithwish 👋
 
-SDE @ Masai (https://www.masaischool.com/) 
+Full Stack Engineer | Building & Scaling Products from 0 → 1 | MERN • React Native • AWS • DevOps
 <br>
 ### Tech I Work with 💻 :
 &nbsp;
