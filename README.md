@@ -1,6 +1,6 @@
 ## Hi, I am Prithwish 👋
 
-Full Stack Engineer | Building & Scaling Products from 0 → 1 | MERN • React Native • AWS • DevOps
+Founding Engineer @ Glosity | Indie Hacker | Building & Scaling Products 0 → 1 | Full-Stack + AI (TS/Node/React) • React Native • AWS
 <br>
 ### Tech I Work with 💻 :
 &nbsp;
